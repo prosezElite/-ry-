@@ -1,0 +1,6 @@
+{
+  "name": "Rusty FACEIT Dashboard",
+  "description": "A production-grade web dashboard and API backend for the [ry] Rusty Critical Ops community, featuring player stats, leaderboards, and AI-powered match analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
